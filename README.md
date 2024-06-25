@@ -1,6 +1,6 @@
 <h1 align="center">WE 👋, Are Ignite Learning & Consultancy Pvt. Ltd</h1>
 <h3 align="center">We, Ignite are here to source, inspire, develop human capital of the organizations, and nurture them so that they contribute immensely for the growth of the organization as well as themselves</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/NewtonIgnite/NewtonIgnite/blob/main/image_processing20210830-27756-1mwupwf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newtonignite&label=Profile%20views&color=0e75b6&style=flat" alt="newtonignite" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtonignite" alt="newtonignite" /></a> </p>
